@@ -33,7 +33,7 @@ h1 {
   padding: 30px;
   width: 350px;
   text-align: center;
-  height: 350px;
+  height: 380px;
 }
 
 #game div {
@@ -114,4 +114,5 @@ p {
 @keyframes blink-animation {
   0%, 100% { opacity: 0; }
   50% { opacity: 1; }
+
 }
