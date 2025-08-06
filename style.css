@@ -96,7 +96,7 @@ p {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  height: 250px;
+  height: 280px;
 }
 
 .blink {
@@ -116,3 +116,4 @@ p {
   50% { opacity: 1; }
 
 }
+
